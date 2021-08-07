@@ -1,0 +1,50 @@
+Industry,Subindustry,total
+Airlines,,1
+Apparel/Footwear,"Apparel, Footwear, Accessories",21
+Apparel/Footwear,"Headwear, Licensing",1
+Automotive Accessories,,1
+Automotive Manufacturer,,1
+Beer / Breweries,Domestic Beer,1
+Beverage,Energy Drinks,2
+Beverage,Soda,3
+Beverage,Sports Drinks,3
+Beverage,Water,1
+Business Services,Sports Consulting,1
+Casino/Gambling,Sports Gambling,1
+Consumer Electronics,Audio,3
+Consumer Electronics,"Cellular, Computer/ Tablet, Television, Audio",1
+Consumer Electronics,Computer / Tablet,1
+Desserts,Candy,1
+Dining,"Mexican, Restaurants, Fast Casual",1
+Dining,Quick Service Restaurants,5
+Entertainment,,2
+Entertainment,"Gaming, Leisure",3
+Entertainment,TV / Movies,4
+Financial Services,Banks,3
+Food,Food Producer,1
+Government Agencies,,1
+Grocery,,1
+Healthcare / Pharma,Medical Company,1
+Home DÃ©cor,,1
+Insurance,"Life Insurance, Auto Insurance, Property Insurance",1
+Jewlery / Watches,,1
+Lodging,Homestay,1
+Media,,1
+Media,TV Station,1
+Personal Care,,3
+Retail,,1
+Retail,"Clothing, Online",11
+Retail,Convenience,1
+Retail,Online,1
+Security,,1
+Sports Agencies,Sports Marketing,2
+Sports Agencies,Talent Representation ,21
+Sports Collectibles,,4
+Sports Equipment,Player Equipment,6
+Technology,"Business Technology, Consumer Technology",1
+Technology,"Hardware, Software, Developer",1
+Technology,"IT Company, Software",1
+Telecommunications,"Wireless, Cable, Internet",5
+Transportation,Ride Share,1
+Wellness,,1
+Wellness,Supplements,2

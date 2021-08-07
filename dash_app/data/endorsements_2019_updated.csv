@@ -1,0 +1,35 @@
+﻿Player,Endorsment (millions),Twitter Followers (millions),Min Estimated cost/ post,Max Estimated cost/ post,Avg Estimated cost/ post,estimated value per post,Value to cost,Team,Division,Age,Win_shares,Games,Minutes_played,Field_goal_percentage,Shooting_percentage,Draft Year,Tenure (Years),Draft Round,Overall Draft Pick
+Lebron James,53,44.3,"900,000","1,250,000","1,075,000",470356,0.437540465,Lakers,Pacific,36,5.6,45,1504,0.513,0.602,2003,18,1,1
+Kevin Durant,35,17.9,67500,93750,"80,625",190464,2.362344186,Brooklyn Nets,Atlantic,32,5,35,1157,0.537,0.666,2007,14,1,2
+Steph Curry,42,13.8,45000,62500,"53,750",146966,2.734251163,GS Warriors,Pacific,32,9,63,2152,0.482,0.655,2009,12,1,7
+Carmelo Anthony,6,9.1,45000,62500,"53,750",97081,1.80615814,Portland Trail Blazers,Northwest,36,2.6,69,1690,0.421,0.547,2003,18,1,3
+Chris Paul,8,7.8,27000,37500,"32,250",83566,2.591193798,Oklahoma City Thunder,Northwest,35,9.2,70,2199,0.499,0.599,2005,16,1,4
+Dwight Howard,3.5,6.6,22500,31250,"26,875",69969,2.603497674,Lakers,Pacific,35,4,69,1196,0.587,0.61,2004,17,1,1
+James Harden,17,6.5,27000,37500,"32,250",69504,2.155162791,Houston Rockets,Southwest,31,7,44,1609,0.466,0.618,2009,12,1,3
+Russel Westbrook,18,6.2,27000,37500,"32,250",66383,2.058387597,Houston Rockets,Southwest,32,3.7,65,2369,0.439,0.509,2008,13,1,4
+Blake Griffin,7,4.5,45000,62500,"53,750","47,700",0.88744186,Detroit Pistons,Central,31,2,46,1186,0.423,0.546,2009,12,1,1
+Kyrie Irving,23,4.3,22500,31250,"26,875",45646,1.698455814,Brooklyn Nets,Atlantic,28,7.4,54,1886,0.506,0.614,2011,10,1,1
+Kevin Love,4,3.2,13500,18750,"16,125",33989,2.107844961,Cleveland Cavaliers,Central,32,0.9,25,622,0.409,0.556,2008,13,1,5
+Paul George,8,2.2,9000,12500,"10,750",23469,2.183162791,Clippers,Pacific,30,5.3,54,1821,0.467,0.598,2010,11,1,10
+Marc Gasol,1,1.9,7650,10625,"9,138",20948,2.29253078,Toronto Raptors,Atlantic,36,2.8,52,993,0.454,0.606,2007,14,2,48
+Damian Lillard,13,1.8,13500,18750,"16,125",19299,1.196837209,Portland Trail Blazers,Northwest,30,10.4,67,2398,0.451,0.623,2012,9,1,6
+Anthony Davis,9,1.7,22500,31250,"26,875",22992,0.855516279,Lakers,Pacific,27,3.7,36,1162,0.491,0.556,2012,9,1,1
+Joel Embiid,6.5,1.7,67500,93750,"80,625",18188,0.225587597,Philadelphia 76ers,Atlantic,26,8.8,51,1585,0.513,0.636,2014,7,1,3
+Klay Thompson,15,1.4,13500,18750,"16,125",14345,0.889612403,GS Warriors,Pacific,,,,,,,2011,10,1,11
+Kyle Lowry,1.5,0.873,45000,62500,"53,750",9271,0.172483721,Toronto Raptors,Atlantic,34,4.1,46,1601,0.436,0.593,2006,15,1,24
+Andre Drummond,1,0.843,9000,12500,"10,750",5636,0.52427907,Detroit Pistons,Central,27,2,46,1242,0.493,0.519,2012,9,1,9
+Giannis Antetokounmpo,19,0.817,9000,12500,"10,750",10779,1.002697674,Milwauke Bucks,Central,26,10.2,61,2013,0.569,0.633,2013,8,1,15
+Gordon Hayward,3,0.662,45000,62500,"53,750",7034,0.130865116,Boston Celtics,Atlantic,30,3.5,44,1496,0.473,0.584,2010,11,1,9
+DeMar DeRozan,5,0.64,67500,93750,"80,625",6796,0.084291473,San Antonio Spurs,Southwest,31,7.4,61,2056,0.495,0.591,2009,12,1,9
+Harrison Barnes,1.5,0.622,67500,93750,"80,625",6608,0.08195969,Sacremento Kings,Pacific,28,4.5,58,2102,0.497,0.626,2012,9,1,7
+Mike Conley Jr.,1,0.531,67500,93750,"80,625",3373,0.041835659,Utah Jazz,Northwest,33,6.1,51,1498,0.444,0.589,2007,14,1,4
+Andrew Wiggins,0.6,0.511,67500,93750,"80,625",5429,0.067336434,Minnesota Timberwolves,Northwest,25,3.9,71,2364,0.477,0.568,2014,7,1,1
+Bradley Beal,1.5,0.459,9000,12500,"10,750",4871,0.453116279,Washington Wizards,Southeast,27,5.9,60,2147,0.485,0.593,2012,9,1,3
+Kawhi Leonard,5.5,0.416,67500,93750,"80,625",4423,0.054858915,Clippers,Pacific,29,8.8,52,1773,0.512,0.622,2011,10,1,15
+C.J. McCollum,3,0.361,3600,5000,"4,300",3837,0.892325581,Portland Trail Blazers,Northwest,29,4.7,47,1600,0.458,0.577,2013,8,1,10
+Al Horford,3,0.359,45000,62500,"53,750",3812,0.07092093,Philadelphia 76ers,Atlantic,34,1.6,28,782,0.45,0.538,2007,14,1,3
+Steven Adams,3,0.214,3600,5000,"4,300",3837,0.892325581,Oklahoma City Thunder,Northwest,27,4,58,1605,0.614,0.596,2013,8,1,12
+Hassan Whiteside,0.75,0.188,45000,62500,"53,750",1995,0.037116279,Portland Trail Blazers,Northwest,31,0.9,36,546,0.563,0.566,2010,11,2,33
+Jrue Holiday,0.5,0.142,2250,3125,"2,688",1207,0.449116279,New Orleans Pelicans,Southwest,30,6.6,59,1907,0.503,0.592,2009,12,1,17
+Otto Porter Jr.,0.5,0.087,67500,93750,"80,625",271,0.00336124,Chicago Bulls,Central,27,1.3,28,606,0.432,0.552,2013,8,1,3
+Paul Millsap,0.5,0.066,6750,10000,"8,375",529,0.063164179,Denver Nuggets,Northwest,35,3.2,56,1162,0.476,0.565,2006,15,2,47

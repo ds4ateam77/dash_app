@@ -1,0 +1,302 @@
+Item,City,LAT,LONG,Attribute,Value
+New York Knicks,"New York, NY",40.730610,-73.935242,2010,586
+New York Knicks,"New York, NY",40.730610,-73.935242,2011,655
+New York Knicks,"New York, NY",40.730610,-73.935242,2012,780
+New York Knicks,"New York, NY",40.730610,-73.935242,2013,1100
+New York Knicks,"New York, NY",40.730610,-73.935242,2014,1400
+New York Knicks,"New York, NY",40.730610,-73.935242,2015,2500
+New York Knicks,"New York, NY",40.730610,-73.935242,2016,3000
+New York Knicks,"New York, NY",40.730610,-73.935242,2017,3300
+New York Knicks,"New York, NY",40.730610,-73.935242,2018,3600
+New York Knicks,"New York, NY",40.730610,-73.935242,2019,4000
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2010,315
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2011,363
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2012,450
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2013,555
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2014,750
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2015,1300
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2016,1900
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2017,2600
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2018,3100
+Golden State Warriors,"San Francisco, CA",37.773972,-122.419400,2019,3500
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2010,607
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2011,643
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2012,900
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2013,1000
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2014,1350
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2015,2600
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2016,2700
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2017,3000
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2018,3300
+Los Angeles Lakers,"Los Angeles, CA",34.052235,-118.243683,2019,3700
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2010,269
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2011,312
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2012,357
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2013,530
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2014,780
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2015,1500
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2016,1700
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2017,1800
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2018,2300
+Brooklyn Nets,"Brooklyn, NY",40.650002,-73.949997,2019,2350
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2010,433
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2011,452
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2012,482
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2013,730
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2014,875
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2015,1700
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2016,2100
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2017,2200
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2018,2500
+Boston Celtics,"Boston, MA",42.361145,-71.057083,2019,2800
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2010,511
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2011,511
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2012,600
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2013,800
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2014,1200
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2015,2000
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2016,2300
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2017,2500
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2018,2600
+Chicago Bulls,"Chicago, IL",41.881832,-87.623177,2019,2900
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2010,470
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2011,443
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2012,453
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2013,568
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2014,775
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2015,1250
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2016,1500
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2017,1650
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2018,2200
+Houston Rockets,"Houston, TX",29.749907,-95.358421,2019,2300
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2010,295
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2011,305
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2012,324
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2013,430
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2014,575
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2015,1600
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2016,2000
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2017,2000
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2018,2150
+Los Angeles Clippers,"Los Angeles, CA",34.052235,-118.243683,2019,2200
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2010,446
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2011,438
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2012,497
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2013,685
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2014,765
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2015,1150
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2016,1400
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2017,1450
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2018,1900
+Dallas Mavericks,"Dallas, TX",32.779167,-96.808891,2019,2250
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2010,386
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2011,399
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2012,382
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2013,405
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2014,520
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2015,920
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2016,980
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2017,1125
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2018,1400
+Toronto Raptors,"Toronto, CA",43.651070,-79.347015,2019,1675
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2010,344
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2011,330
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2012,314
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2013,418
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2014,469
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2015,700
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2016,700
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2017,800
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2018,1180
+Philadelphia 76ers,"Philadelphia, PA",39.952583,-75.165222,2019,1650
+Miami Heat,"Miami, FL",25.761681,-80.191788,2010,364
+Miami Heat,"Miami, FL",25.761681,-80.191788,2011,425
+Miami Heat,"Miami, FL",25.761681,-80.191788,2012,457
+Miami Heat,"Miami, FL",25.761681,-80.191788,2013,625
+Miami Heat,"Miami, FL",25.761681,-80.191788,2014,770
+Miami Heat,"Miami, FL",25.761681,-80.191788,2015,1175
+Miami Heat,"Miami, FL",25.761681,-80.191788,2016,1300
+Miami Heat,"Miami, FL",25.761681,-80.191788,2017,1350
+Miami Heat,"Miami, FL",25.761681,-80.191788,2018,1700
+Miami Heat,"Miami, FL",25.761681,-80.191788,2019,1750
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2010,398
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2011,404
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2012,418
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2013,527
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2014,660
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2015,1000
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2016,1150
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2017,1175
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2018,1550
+San Antonio Spurs,"San Antonio, TX",29.424349,-98.491142,2019,1625
+Washington Wizards,Washington DC,38.907200,-77.036900,2010,313
+Washington Wizards,Washington DC,38.907200,-77.036900,2011,322
+Washington Wizards,Washington DC,38.907200,-77.036900,2012,328
+Washington Wizards,Washington DC,38.907200,-77.036900,2013,397
+Washington Wizards,Washington DC,38.907200,-77.036900,2014,485
+Washington Wizards,Washington DC,38.907200,-77.036900,2015,900
+Washington Wizards,Washington DC,38.907200,-77.036900,2016,960
+Washington Wizards,Washington DC,38.907200,-77.036900,2017,1000
+Washington Wizards,Washington DC,38.907200,-77.036900,2018,1350
+Washington Wizards,Washington DC,38.907200,-77.036900,2019,1550
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2010,338
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2011,356
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2012,370
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2013,457
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2014,587
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2015,940
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2016,975
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2017,1050
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2018,1300
+Portland Trail Blazers,"Portland, OR",45.505100,-122.675000,2019,1600
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2010,254
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2011,258
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2012,268
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2013,312
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2014,405
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2015,600
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2016,675
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2017,785
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2018,1075
+Milwaukee Bucks,"Milwaukee, WI",43.038900,-87.906500,2019,1860
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2010,305
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2011,293
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2012,300
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2013,525
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2014,550
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2015,800
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2016,925
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2017,1075
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2018,1375
+Sacramento Kings,"Sacramento, CA",38.581600,-121.494400,2019,1575
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2010,321
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2011,316
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2012,316
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2013,427
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2014,495
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2015,855
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2016,855
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2017,890
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2018,1125
+Denver Nuggets,"Denver, CO",39.739200,-104.990300,2019,1375
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2010,476
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2011,355
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2012,329
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2013,434
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2014,515
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2015,915
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2016,1100
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2017,1200
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2018,1325
+Cleveland Cavaliers,"Cleveland, OH",41.499300,-81.694400,2019,1275
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2010,479
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2011,360
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2012,332
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2013,400
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2014,450
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2015,810
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2016,850
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2017,900
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2018,1100
+Detroit Pistons,"Detroit, MI",42.331400,-83.045800,2019,1270
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2010,343
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2011,343
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2012,335
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2013,432
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2014,525
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2015,850
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2016,875
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2017,910
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2018,1200
+Utah Jazz,"Salt Lake City, UT",40.760800,-111.891000,2019,1425
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2010,310
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2011,329
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2012,348
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2013,475
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2014,590
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2015,930
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2016,950
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2017,1025
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2018,1250
+Oklahoma City Thunder,"Oklahoma City, OK",35.467600,-97.516400,2019,1475
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2010,429
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2011,411
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2012,395
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2013,474
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2014,565
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2015,910
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2016,1000
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2017,1100
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2018,1280
+Phoenix Suns,"Phoenix, AZ",33.448400,-112.074000,2019,1500
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2010,281
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2011,269
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2012,283
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2013,383
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2014,475
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2015,830
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2016,840
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2017,880
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2018,1175
+Indiana Pacers,"Indianapolis, IN",39.768400,-86.158100,2019,1400
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2010,306
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2011,295
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2012,270
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2013,316
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2014,425
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2015,825
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2016,825
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2017,885
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2018,1150
+Atlanta Hawks,"Atlanta, GA",33.749000,-84.388000,2019,1300
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2010,361
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2011,385
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2012,385
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2013,470
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2014,560
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2015,875
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2016,900
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2017,920
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2018,1225
+Orlando Magic,"Orlando, FL",28.538300,-81.379200,2019,1325
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2010,278
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2011,281
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2012,277
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2013,315
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2014,410
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2015,725
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2016,750
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2017,780
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2018,1050
+Charlotte Hornets,"Charlotte, NC",35.227100,-80.843100,2019,1025
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2010,268
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2011,264
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2012,272
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2013,364
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2014,430
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2015,625
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2016,720
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2017,770
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2018,1060
+Minnesota Timberwolves,"Minneapolis, MN",44.977800,-93.265000,2019,1260
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2010,257
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2011,266
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2012,269
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2013,377
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2014,453
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2015,750
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2016,780
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2017,790
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2018,1025
+Memphis Grizzlies,"Memphis, TN",35.149500,-90.049000,2019,1002
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2010,267
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2011,280
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2012,285
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2013,340
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2014,420
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2015,650
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2016,650
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2017,750
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2018,1000
+New Orleans Pelicans,"New Orleans, LA",29.951100,-90.071500,2019,1022
+,,29.951100,-90.071500,,

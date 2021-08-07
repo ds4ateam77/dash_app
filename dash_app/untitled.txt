@@ -1,0 +1,88 @@
+        return dbc.Container(
+            [
+                dbc.Row([
+                    dbc.Col(html.H1("PLAYER STATS"), className='text-center', style={'color': '#ffffff'})
+                ]),
+                dbc.Row([
+                    dbc.Col([
+                        dbc.Card([
+                            html.H5("Top Earners (Salary and Endorsements) Per Year"),
+                            dbc.Cardbody([
+                                dcc.Graph(id="salary_endorsements"),
+                                dcc.Slider(id= "salary_sliders",
+                                    min=2015, 
+                                    max=2020,
+                                    step=None,
+                                    marks={
+                                        2015: '2015',
+                                        2016: '2016',
+                                        2017: '2017',
+                                        2021: '2021'
+                                    },value=2015)
+                            ])
+                        ])
+                    ])
+                ]),
+                dbc.Row([
+                    dbc.Col([
+                        dbc.Card([
+                            html.H5("NBA Player Sponsorship Compared to FG Average", className="card-title text-center"),
+                            html.Div(
+                                [
+                                    dbc.RadioItems(id="radios", className="btn-group", labelClassName="btn btn-secondary", labelCheckedClassName="active",
+                                                   options=[
+                                                       {"label": "Sponsorship", "value": "Sponsorship"},
+                                                       {"label": "Industry", "value": "Industry"},
+                                                       {"label": "Subindustry", "value": "Subindustry"}
+                                                   ], value="Sponsorship")
+                                ], className="radio-group"),
+                            dbc.CardBody([
+                                dcc.Graph(id='FG_plot')
+                            ]),                             
+                        ], color='#c00001', inverse=True)
+                    ], width={'size': 6}),
+                    dbc.Col([
+                        dbc.Card([
+                            html.H5("Endorsements based on Tenure and Draft picks", className="card-title text-center"),
+                            html.Div(
+                                [
+                                    dbc.RadioItems(id="endorsement_radios", className="btn-group", labelClassName="btn btn-secondary", labelCheckedClassName="active",
+                                                   options=[
+                                                       {"label": "Tenure", "value": "Tenure (Years)"},
+                                                       {"label": "Draft Pick", "value": "Overall Pick"}
+                                                   ], value="Tenure (Years)")
+                                ], className="radio-group"),
+                            dbc.CardBody([
+                              dcc.Graph(id='endorsement_plots')  
+                            ])
+                        ], color='#7f7f7f', inverse=True)
+                    ], width={'size': 6}),
+                ]),
+                dbc.Row([
+                    dbc.Col(html.H1("    "))
+                ]),
+                dbc.Row([
+                    dbc.Col([
+                        dbc.Card([
+                            html.H5("PLACEHOLDER", className=('card-title text-center')),
+                            dbc.CardBody([
+                              dcc.Graph(id='graph1', figure={}),
+                              dcc.Graph(id='graph1', figure={})
+                            ])
+                        ], color='#4472c4', inverse=True)
+                    ], width={'size': 6}),
+                    dbc.Col([
+                        dbc.Card([
+                            html.H5("PLACEHOLDER", className="card-title text-center"),
+                            dbc.CardBody([
+                              dcc.Graph(id='graph1', figure={}),
+                              dcc.Graph(id='graph1', figure={})
+                            ])
+                        ], color='#4472c4', inverse=True)
+
+                    ], width={'size': 6}),
+                ]),
+                dbc.Row([
+                    dbc.Col(html.H1("    "))
+                ]), 
+            ], style={'background-color': "#18408b"}, fluid=True)
